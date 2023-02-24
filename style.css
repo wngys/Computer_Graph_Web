@@ -65,11 +65,11 @@ body {
 	overflow:visible !important /*Firefox*/; 
 	overflow:hidden /*IE6*/;
 	}
-.navigation{
+/* .navigation{
 	width:900px; 
 	height:40px; 
 	background:rgb(255,255,255) url(img/bg_head_breadcrumbs.jpg) repeat-y;
-	}
+	} */
 	
 .index{
 	clear:both; 
